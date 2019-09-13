@@ -20,6 +20,7 @@ html{
 }
 body{
    background-color: rgb(227, 210, 173);
+   font-family: Fantasy,sans-serif;
 }
 body footer{
    background-color: rgb(227, 184, 109);
@@ -95,8 +96,8 @@ blockquote{
    color: rgb(225, 225, 225)
 }
 blockquote p{
-   padding-top: 10px;
-   padding-bottom: 10px;
+   padding-top: 2.5px;
+   padding-bottom: 2.5px;
    padding-right: 10px;
    padding-left: 10px;
 }
